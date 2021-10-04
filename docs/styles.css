@@ -6,3 +6,12 @@
 	padding: 35px 0 23px;
 	margin: 0;
 }
+.center .default {
+	text-align: center;
+}
+.left .default {
+	text-align: left;
+}
+.right .default {
+	text-align: right;
+}
